@@ -1,7 +1,17 @@
 # Piloting a Generative Cinépoème from Claude Code
 
-**~12 heures, une seule session, un seul prompt window.**
-Notes de méthode d'un cinéaste qui pilote toute la chaîne de production d'un court métrage IA depuis Claude Code (CLI Anthropic) et un Claude AI Project.
+🇬🇧 [English version](./README.md)
+
+## La mission
+
+L'idée préexistait. L'exécution avait des contraintes de temps dures :
+
+- **48h pleines**, pour écrire le texte (une voix off narrative long-format, en français, ensuite traduite en anglais pour le voice cloning).
+- **24h pleines**, pour produire le film à partir de ce texte : génération image, voice cloning, image-to-video, musique, sound design, mix audio, montage, sous-titres, upload, livraison à un lieu.
+
+Pas d'équipe. Un cinéaste, un Mac, une fenêtre de prompt. Deadline de livraison non négociable (vernissage d'un lieu le soir-même).
+
+Voici les notes de méthode de ce sprint de production de 24h piloté intégralement depuis **Claude Code** (CLI Anthropic) et un **Claude AI Project**.
 
 Le film lui-même n'est pas l'objet ici. La **méthode** l'est.
 
