@@ -1,0 +1,21 @@
+# Binary assets (videos, audio, images) — too large for git
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.png
+*.jpg
+*.psd
+*.ai
+
+# Secrets
+secrets/
+*.txt
+!requirements.txt
+
+# Local paths
+*.bak
+.DS_Store
+
+# Logs
+*.log
