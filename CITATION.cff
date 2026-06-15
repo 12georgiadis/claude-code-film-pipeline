@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please credit it as below."
+title: "claude-code-film-pipeline"
+abstract: "Method notes: piloting a generative cinépoème from Claude Code — ~12h session, 5 editor agents, ffmpeg vs NLE, voice cloning > TTS, fals/wins across fal/PiAPI/Replicate/Krea"
+type: software
+authors:
+  - given-names: "Ismaël"
+    family-names: "Joffroy Chandoutis"
+    website: "https://github.com/12georgiadis"
+repository-code: "https://github.com/12georgiadis/claude-code-film-pipeline"
+url: "https://github.com/12georgiadis/claude-code-film-pipeline"
+license: PolyForm-Noncommercial-1.0.0
