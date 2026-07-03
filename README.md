@@ -656,3 +656,5 @@ What gets delegated, what stays yours, becomes the next political question of fi
 *See also : [`ISMAEL_EDIT_GRAMMAR.md`](./ISMAEL_EDIT_GRAMMAR.md) (work in progress, extracted from Maalbeek / Swatted / Ondes Noires / Rewild via Gemini multimodal). [`scripts/`](./scripts) for runnable bits.*
 
 *Notes taken the day after a ~24h sprint; expanded subsequently on cooler reflection.*
+
+Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
