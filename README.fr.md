@@ -1,3 +1,5 @@
+[English](README.md) · **Français**
+
 # Piloter une production de film générative depuis Claude Code
 
 Notes de méthode d'un cinéaste (Ismaël Joffroy Chandoutis) qui pilote toute la chaîne de production d'un court métrage génératif depuis un cockpit Claude Code CLI + une salle d'écriture Claude AI Project.

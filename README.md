@@ -1,3 +1,5 @@
+**English** · [Français](README.fr.md)
+
 # Piloting Generative Film Production from Claude Code
 
 A method note from a filmmaker (Ismaël Joffroy Chandoutis) running the entire production chain of a short generative film through a Claude Code CLI cockpit + a Claude AI Project writer's room.
